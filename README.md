@@ -6,7 +6,7 @@
  
  We are going to build chain of jobs here in order to get desired accuracy for given dataset but before going ahead we have to create a Dockerfile which will create image with required configurations.
 
- - Job 1 : Job 1 will keep an eye on github repository for changes. This job will automatically copy everything in           the folder of my base os as soon as new commits are done..(I am using RHEL 8 as my base os (VM)). 
+ - Job 1 : Job 1 will keep an eye on github repository for changes. This job will automatically copy everything in           the folder of my base os as soon as new commits are done..( RHEL8 as my base os ). 
  
    [![Screenshot-25.png](https://i.postimg.cc/J49g1zBB/Screenshot-25.png)](https://postimg.cc/ykynjBjV)
    
